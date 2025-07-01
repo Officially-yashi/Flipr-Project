@@ -5,9 +5,8 @@ A full-stack web app with a modern landing page and admin panel. Built using **R
 ![Landing Page](https://github.com/user-attachments/assets/8d4a1cda-e187-4b19-8f9b-eaa10e893b66)
 ![Uploading Landing Page.png…]()
 
+![Uploading Not your Average Realtor.png…]()
 
-![Uploading Not your Average Realtor.png…]()
-![Uploading Not your Average Realtor.png…]()
 
 ## 🌐 What This Project Does
 
