@@ -6,6 +6,7 @@ A full-stack web app with a modern landing page and admin panel. Built using **R
 
 
 ![Uploading Not your Average Realtor.png…]()
+![Why choose us](https://github.com/user-attachments/assets/b3f67216-ca7d-42ef-aef7-ee24f958a2e3)
 
 
 ## 🌐 What This Project Does
