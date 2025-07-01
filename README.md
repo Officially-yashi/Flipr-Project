@@ -6,6 +6,8 @@ A full-stack web app with a modern landing page and admin panel. Built using **R
 ![Uploading Landing Page.png…]()
 
 
+![Uploading Not your Average Realtor.png…]()
+![Uploading Not your Average Realtor.png…]()
 
 ## 🌐 What This Project Does
 
